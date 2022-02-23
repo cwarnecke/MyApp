@@ -1,0 +1,15 @@
+/Users/caelanwarnecke/MyApp/bin/Debug/net6.0/MyApp
+/Users/caelanwarnecke/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/caelanwarnecke/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/caelanwarnecke/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/caelanwarnecke/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/caelanwarnecke/MyApp/obj/Debug/net6.0/ref/MyApp.dll
